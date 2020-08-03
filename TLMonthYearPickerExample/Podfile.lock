@@ -1,0 +1,16 @@
+PODS:
+  - TLMonthYearPicker (2.0.0)
+
+DEPENDENCIES:
+  - TLMonthYearPicker (from `../`)
+
+EXTERNAL SOURCES:
+  TLMonthYearPicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TLMonthYearPicker: 8496120b2d506701fc53895f0fb940d7e3062f12
+
+PODFILE CHECKSUM: e206cd64abafeb8eeaf5555d6fdbcbd76824929c
+
+COCOAPODS: 1.4.0.beta.1
